@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shot-tracker-privacy/static/css/main.4d026c6a.css",
+    "main.js": "/shot-tracker-privacy/static/js/main.adea50fd.js",
+    "index.html": "/shot-tracker-privacy/index.html",
+    "main.4d026c6a.css.map": "/shot-tracker-privacy/static/css/main.4d026c6a.css.map",
+    "main.adea50fd.js.map": "/shot-tracker-privacy/static/js/main.adea50fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d026c6a.css",
+    "static/js/main.adea50fd.js"
+  ]
+}
